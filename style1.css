@@ -1,0 +1,39 @@
+/* *{
+    background-color: cyan;
+} */
+/* someting insdie */
+
+/* 
+h2,h3,h1 {
+    background-color: red;
+} */
+
+
+#lina {
+   
+
+}
+
+.siblings, h3,#linaaa {
+    color:rgb(0, 0, 128)
+}
+
+
+#simple {
+    color:blue
+
+}
+
+#rgb {
+    color:rgb(9,25,79)
+}
+
+#hex {
+    color:"#FFFFF"
+    
+}
+
+#hsl {
+    color:hsl(67°, 38%, 9%)
+    
+}
